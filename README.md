@@ -1,5 +1,5 @@
 #First repository 
 
-This is my first repository pushed by my local setup
+This is my first repository pushed by by my local setup
 
 change
